@@ -377,7 +377,11 @@
                               <h3>North Garden City</h3>
                               <h4 class="projects_h4">22+ ACRES IN THE HEART OF MIRA ROAD</h4>
                               <p>Harmonizing nature, luxuries and convenience across a 22+ acres area, North Garden City provides a grand lifestyle. Well-connected and equipped with the latest amenities, Mira Road’s North Garden City offers homes loved by one & all.</p>
-                              <button type="button" class="btn_more_other"><img src="img/arrow1.png" class="arrow_button" alt="arrow">KNOW MORE</button>
+                              <div class="btn_more_pro">
+								<p>KNOW MORE</p>
+								<img src="img/arrow1.png" class="arrow_button" alt="arrow">
+								<div class="clearfix"></div>
+							</div>
                            </div>
                            <div class="clearfix"></div>
                         </div>
@@ -392,7 +396,11 @@
                               <h3>Codename Hotcake</h3>
                               <h4 class="projects_h4">OPEN PAYMENT PLANS - YOUR HOUSE, YOUR CHOICE</h4>
                               <p>Smartly planned, with every brick crafted to perfection, Codename Hotcake is styled to fulfil every need of your dream home. Equipped with the latest technology and necessities close at hand, Codename Hotcake aspires to make the experience at Mira Road better than your dreams.</p>
-                              <button type="button" class="btn_more_other"><img src="img/arrow1.png" class="arrow_button" alt="arrow">KNOW MORE</button>					
+                              <div class="btn_more_pro">
+								<p>KNOW MORE</p>
+								<img src="img/arrow1.png" class="arrow_button" alt="arrow">
+								<div class="clearfix"></div>
+							</div>					
                            </div>
                            <div class="clearfix"></div>
                         </div>
@@ -407,7 +415,11 @@
                               <h3>North Garden City</h3>
                               <h4 class="projects_h4">22+ ACRES IN THE HEART OF MIRA ROAD</h4>
                               <p>Harmonizing nature, luxuries and convenience across a 22+ acres area, North Garden City provides a grand lifestyle. Well-connected and equipped with the latest amenities, Mira Road’s North Garden City offers homes loved by one & all.</p>
-                              <button type="button" class="btn_more_other"><img src="img/arrow1.png" class="arrow_button" alt="arrow">KNOW MORE</button>
+                              <div class="btn_more_pro">
+								<p>KNOW MORE</p>
+								<img src="img/arrow1.png" class="arrow_button" alt="arrow">
+								<div class="clearfix"></div>
+							</div>
                            </div>
                            <div class="clearfix"></div>
                         </div>
